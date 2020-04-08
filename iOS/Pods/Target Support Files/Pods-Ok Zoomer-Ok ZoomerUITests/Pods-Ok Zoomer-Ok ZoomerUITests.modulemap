@@ -1,0 +1,6 @@
+framework module Pods_Ok_Zoomer_Ok_ZoomerUITests {
+  umbrella header "Pods-Ok Zoomer-Ok ZoomerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
